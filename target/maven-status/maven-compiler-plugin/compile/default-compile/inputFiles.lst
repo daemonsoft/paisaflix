@@ -1,0 +1,15 @@
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/MostviewedApiController.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/ApiException.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/model/Utils.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/MostviewedApi.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/HistoryApi.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/HistoryApiController.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/ApiResponseMessage.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/configuration/HomeController.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/NotFoundException.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/model/Program.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/api/ApiOriginFilter.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/daemonsoft/eclipse-workspace/paisaflix-server/src/main/java/io/swagger/model/History.java
